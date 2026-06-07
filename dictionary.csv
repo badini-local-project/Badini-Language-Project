@@ -1,7 +1,7 @@
 English,Badini
 Download,داگرتن
 Update,نوی کرن
-Browser,گەروکێ وێبێ
+Browser,گەروکێ مالپەران
 Cybersecurity,ئاسایشا سایبەر
 Encryption,کودکرن
 Settings,رێکخستن
@@ -30,3 +30,28 @@ Terminal,شاشەیا فەرمانان
 Command,فەرمان
 User،بکارهێنەر
 Administrator,سەرپەرشت
+Authentication,سەلماندن
+Authorization,دەستهەلات
+Permission,دەستیری
+Privilege,ماف
+Session,ڕوونشتن
+Cookie,پێزانینێن مالپەری
+Cache,پاشکەفت
+Thread,زنجیرە
+Process,پروسە
+Kernel,ناڤک
+Bootloader,دیسپێکرنا سیستەمی
+Firmware,بەرنامەیێ جێگیر
+Driver,پێناسەیێ ئامیران
+Virtual Machine,ئامیرێ خەیالی
+Container,پاکێج هەلگر
+Shell,فەرمان هەلگر
+compiler,وەرگێر
+Repository,کوگەها پروژەی
+Package,پاکێج
+
+
+
+
+
+
