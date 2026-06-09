@@ -19,7 +19,7 @@ missing foundation.
 
 ## Current Progress
 
-- Technical dictionary: 26 terms and growing
+- Technical dictionary: 50 terms and growing
 - Translation terminology folder
 - Open-source localization effort started
 
