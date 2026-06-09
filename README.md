@@ -29,3 +29,23 @@ missing foundation.
 1. Open `dictionary.csv`
 2. Click the pencil ✏️ icon (Edit this file)
 3. Add your term at the bottom in this exact format:
+4. Click **Propose changes**
+5. Click **Create pull request**
+
+### Option 2 — Fork and pull request
+For multiple additions, fork the repo, edit locally, then open a pull request.
+
+### Format rules
+- Two columns only: `English,Badini`
+- One term per line
+- No extra spaces after the comma
+- If the English term contains a comma, wrap it in quotes: `"Input, Output",وەرگرتن و دەرکەوتن`
+
+### Not sure about a translation?
+Open an [Issue](../../issues) and suggest it there for community review.
+
+## About
+
+**Language:** Badini Kurdish (Kurmanji dialect spoken in Duhok region, Iraq)  
+**License:** MIT — free to use, share, and build on  
+**Started:** 2026
