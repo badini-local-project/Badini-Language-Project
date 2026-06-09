@@ -27,7 +27,7 @@ missing foundation.
 
 ### Option 1 — No Git needed (easiest)
 1. Open `dictionary.csv`
-2. Click the pencil ✏️ icon (Edit this file)
+2. Click the pencil ✏️ icon (Edit this file) — you'll need a GitHub account
 3. Add your term at the bottom in this exact format:
 4. Click **Propose changes**
 5. Click **Create pull request**
@@ -39,7 +39,7 @@ For multiple additions, fork the repo, edit locally, then open a pull request.
 - Two columns only: `English,Badini`
 - One term per line
 - No extra spaces after the comma
-- If the English term contains a comma, wrap it in quotes: `"Input, Output",وەرگرتن و دەرکەوتن`
+- If the English term contains a comma, wrap it in quotes: `"Open, Close",ڤەکرن,گرتن`
 
 ### Not sure about a translation?
 Open an [Issue](../../issues) and suggest it there for community review.
